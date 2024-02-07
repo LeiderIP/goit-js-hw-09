@@ -16,3 +16,19 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.color_switcher{
+  text-align: center;
+  align-items: center;
+}
+
+.button_switcher{
+  cursor: pointer;
+}
+
+.button_switcher:hover{
+  color: black;
+  background-color: gray;
+  border: none;
+  border-radius: 5px;
+}
